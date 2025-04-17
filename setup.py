@@ -6,9 +6,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Chest_Cancer_Classification"
+REPO_NAME = "Chest_Cancer_Classification_Project"
 AUTHOR_USER_NAME = "raghavgoel168"
-SRC_REPO = "Chest_Cancer_Classification"
+SRC_REPO = "Chest_Cancer_Classifier"
 AUTHOR_EMAIL = "raghavgoel168@gmail.com"
 
 
